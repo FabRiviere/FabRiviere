@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriviere&label=Profile%20views&color=0e75b6&style=flat" alt="fabriviere" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabriviere" alt="fabriviere" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api?username=fabriviere" alt="fabriviere" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fabsolo3" target="blank"><img src="https://img.shields.io/twitter/follow/fabsolo3?logo=twitter&style=for-the-badge" alt="fabsolo3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fabsolo3" target="_blank"><img src="https://img.shields.io/twitter/follow/fabsolo3?logo=twitter&style=for-the-badge" alt="fabsolo3" /></a> </p>
 
 - 🔭 I’m currently working on **on a Symfony project**
 
