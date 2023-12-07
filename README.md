@@ -22,7 +22,7 @@
 - ✉️  You can contact me at [fabien@activateurweb.com](mailto:fabien@activateurweb.com)
 
 <details>
-<summary><h3 style="color:yellow"><b>If you want to know a little more</b></h3></summary>
+<summary><h3><b><span style="color:yellow">If you want to know a little more</span></b></h3></summary>
 
 I have always been interested in web development, since the appearance of the internet. And yes, I am from that generation which saw the web expand at full speed. At that time, I practiced in an amateur way. but already passionate. On the professional side, at that time, I worked as a business manager in the industrial sector, for a French international group. I did that for 25 years, and in 2021, this group decided to close these agencies. one after the other, and to sell.. Economic layoff in May.. So it was at that moment that I decided to make my passion my profession. I wanted to validate my skills, and I did so by obtaining my web developer diploma at the end of 2021. 
 Since then, I have been working as a freelancer, and at the same time, I continue to train in different languages and frameworks such as Symfony, Vue.js.
@@ -79,7 +79,7 @@ I've never been very good at talking about myself, so the best thing is to follo
 - ✉️  Vous pouvez me contacter : [fabien@activateurweb.com](mailto:fabien@activateurweb.com)
 
 <details>
-<summary><h3 style="color:yellow"><b>Si vous voulez en savoir un peu plus</b></h3></summary>
+<summary><h3><b><span style="color:yellow">Si vous voulez en savoir un peu plus</span></b></h3></summary>
 
 Je me suis toujours interressé au developpement web, et ce dès l'apparition d'internet.Et oui, je suis de cette génération qui a vu la toile s'agrandir à toute vitesse.A ce moment, je m'exerçai de manière amateur mais déjà passionnée. Coté professional, à cette époque, je travaillais comme chargé d'affaires dans le secteur de l'industrie, pour un groupe international français.J'ai fait cela pendant 25 ans, et en 2021, ce groupe a décidé de fermer ces agences les unes après les autres, et de vendre.. Licenciement économique en mai .. C'est donc a ce moment que j'ai décidé de faire de ma passion ma profession. J'ai voulu valider mes acquis, et je l'ai fait en obtenant mon diplôme de développeur web fin 2021. Depuis j'exerce en freelance, et dans le même temps, je continu de me former sur différents langages et framework comme Symfony, Vue.js. Je code en HTML, CSS, Sass, JavaScript et PHP et intéragit le plus souvent avec MySQL ou MongoDB pour le stockage des données.J'utilise également Node.js et Express pour la création d'API, ou un framework comme Api-Platform pour sa bonne intégration aux projets Symfony. Je connais bien aussi les CMS et plus spécifiquement PrestaShop et Wordpress. Il m'arrive de créer des modules PrestaShop que ce soit pour le back ou pour le front. J'aime ce coté full-stack qui me permet de voir toutes les facettes d'un projet, de coder chaque ligne si besoin, et de lui donner vie. Je partage volontiers mes connaissances, et publie régulièrement des tutoriels sur mon blog et sur ma chaine YouTube. Bien entendu, j'aimerai pouvoir en produire plus, mais il faudrait pour cela inventer les journée de 48h.. :) Je n'ai jamais été très fort pour parler de moi, alors le mieux est de me suivre et regarder mon travail. N'hésitez surtout pas à me contacter, si vous pensez avoir besoin de mes services, ou simplement pour pouvoir discuter de ce métier qui est le mien.
 </details>
