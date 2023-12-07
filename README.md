@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/fabsolo3" target="_blank"><img src="https://img.shields.io/twitter/follow/fabsolo3?logo=twitter&style=for-the-badge" alt="fabsolo3" /></a> </p>
 
+- 🌍  I'm based in Bourgogne - France
+  
 - 🔭 I’m currently working on **on a Symfony project**
 
 - 🌱 I’m currently learning **Framework, programming and web development**
@@ -16,6 +18,8 @@
 - 📝 I regularly write articles on [https://activateurweb.com/blog/](https://activateurweb.com/blog/)
 
 - 📄 Know about my experiences [https://activateurweb.com/portfolio/](https://activateurweb.com/portfolio/)
+
+- ✉️  You can contact me at [fabien@activateurweb.com](mailto:fabien@activateurweb.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
