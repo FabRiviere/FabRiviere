@@ -53,7 +53,7 @@ I've never been very good at talking about myself, so the best thing is to follo
 <div width="100%" align="center"><a href="https://github.com/FabRiviere/AW-ShoppingCart_JS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FabRiviere&repo=AW-ShoppingCart_JS&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/FabRiviere/symfonyblog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FabRiviere&repo=symfonyblog&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/FabRiviere/serieAW-Construire_API-Backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FabRiviere&repo=serieAW-Construire_API-Backend&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/FabRiviere/serieAW-Construire_API-Front-end" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FabRiviere&repo=serieAW-Construire_API-Front-end&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a></div>
 
 <details>
-<summary><h1 align="center"><b>EN FRANÇAIS</b></h1></summary>
+<summary><h1 align="center">EN FRANÇAIS</h1></summary>
 
 <h1 align="center">Bonjour 👋, Je suis Fabien alias Activateur Web</h1>
 <h3 align="center">Développeur full-stack indépendant et passionné</h3>
