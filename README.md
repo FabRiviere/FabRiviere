@@ -47,7 +47,7 @@ I've never been very good at talking about myself, so the best thing is to follo
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabRiviere&show_icons=true&locale=en&layout=compact" alt="FabRiviere's GitHub stats" /></p>
 
-<p>&nbsp;<a href="http://www.github.com/FabRiviere"><img src="https://github-readme-stats.vercel.app/api?username=FabRiviere&show_icons=true&hide=prs,contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="FabRiviere's GitHub stats" /></p>
+<p>&nbsp;<a href="http://www.github.com/FabRiviere"><img src="https://github-readme-stats.vercel.app/api?username=FabRiviere&show_icons=true&hide=prs,contribs&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="FabRiviere's GitHub stats" /></p>
 
 
 
