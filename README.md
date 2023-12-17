@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/fabsolo3" target="_blank"><img src="https://img.shields.io/twitter/follow/fabsolo3?logo=twitter&style=for-the-badge" alt="fabsolo3" /></a> </p>
 
+[![Generic badge](https://img.shields.io/badge/ActivateurWeb-Website-GREEN.svg)](https://shields.io/)
+
 - 🌍  I'm based in Bourgogne - France
   
 - 🔭 I’m currently working on **a Symfony project**
