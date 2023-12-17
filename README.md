@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api?username=FabRiviere" alt="fabriviere" /></a> </p>
 
-<p align="left"> [![Generic badge](https://img.shields.io/badge/ActivateurWeb-Website-GREEN.svg)](https://activateurweb.com/) </p>
+[![Generic badge](https://img.shields.io/badge/ActivateurWeb-Website-GREEN.svg)](https://activateurweb.com/) 
 
 
 
@@ -66,7 +66,7 @@ I've never been very good at talking about myself, so the best thing is to follo
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api?username=FabRiviere" alt="FabRiviere" /></a> </p>
 
-<p align="left"> [![Generic badge](https://img.shields.io/badge/ActivateurWeb-Website-GREEN.svg)](https://activateurweb.com/) </p>
+[![Generic badge](https://img.shields.io/badge/ActivateurWeb-Website-GREEN.svg)](https://activateurweb.com/) 
 
 - 🌍  Je suis basé en Bourgogne - France
   
